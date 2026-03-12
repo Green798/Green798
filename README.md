@@ -1,4 +1,4 @@
-<!--## Hi there 👋-->!
+<!--## Hi there 👋-->
 
 ![cai](https://raw.githubusercontent.com/Green798/Green798/refs/heads/main/cai.gif)
 <!--
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->!
+-->
 
