@@ -1,6 +1,14 @@
 <!--## Hi there 👋-->
 
-![cai](https://raw.githubusercontent.com/Green798/Green798/refs/heads/main/cai.gif)
+<!-- 访客计数器 -->
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Green798.Green798)
+
+<!-- 居中显示你的 GIF 动图 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Green798/Green798/refs/heads/main/cai.gif" alt="cai" />
+</div>
+
+
 <!--
 **Green798/Green798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
