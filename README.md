@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![cai](https://raw.githubusercontent.com/Green798/Green798/refs/heads/main/cai.gif)
 <!--
 **Green798/Green798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
